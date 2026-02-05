@@ -9,7 +9,8 @@ body {
 }
 
 .header {
-  background: white url("background_header.svg") no-repeat center/cover;
+  background: white url("../Images/background_header.svg") no-repeat
+    center/cover;
   height: 100vh;
   display: flex;
   flex-direction: column;
